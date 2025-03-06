@@ -1,0 +1,3 @@
+ipykernel
+neo4j
+python_dotenv
